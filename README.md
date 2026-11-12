@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**tamnguyen1011/tamnguyen1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tam Nguyen 👋
 
-Here are some ideas to get you started:
+### Junior Backend Developer | IT Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a recent Information Technology graduate
+interested in Backend and Full-stack Development.
+
+### Tech Stack
+- Languages: JavaScript, TypeScript, Java, SQL
+- Backend: Node.js, Express.js, REST API
+- Frontend: React, Next.js
+- Database: MySQL
+- Cloud & Storage: Cloudflare R2, KV, MinIO
+- Tools: Git, GitHub, Postman, Docker
+
+### Featured Projects
+- Document Management System
+- E-commerce Website
+- Student Management System
+
+### Contact
+- GitHub: https://github.com/tamnguyen1011
+- LinkedIn:
+- Portfolio:
